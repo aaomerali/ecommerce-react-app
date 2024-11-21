@@ -13,7 +13,7 @@ import Cart from './pages/Cart';
 
 function App() {
   return (
-    <div className="App flex flex-col items-center justify-center">
+    <div className="App">
       <BrowserRouter>
 
         <Navbar />
