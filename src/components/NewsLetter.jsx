@@ -2,7 +2,7 @@ import React from 'react'
 
 function NewsLetter() {
   return (
-    <div className=' w-full text-white flex justify-center mb-20'>
+    <div className=' w-full text-white flex justify-center mb-16'>
         <div className="container bg-gradient-to-tr from-indigo-600 to-purple-500 flex flex-col justify-center items-center text-center bg w-[70%] max-w-[2000px] p-10 py-20 rounded-xl">
             <h1 className='text-3xl md:text-5xl  font-medium mb-4'>Get Exclusive Offers on your Email</h1>
             <p className='text-md md:text-xl mb-8'>Subscribe o our newsletter and stay updated</p>
